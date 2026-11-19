@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="892" height="176" viewBox="0 0 892 176" role="img" aria-label="sysmon --ram">
+<rect width="892" height="176" rx="10" fill="#1e1e1e"/>
+<rect width="892" height="30" rx="10" fill="#323233"/><rect y="20" width="892" height="10" fill="#323233"/>
+<circle cx="18" cy="15" r="6" fill="#ff5f56"/><circle cx="38" cy="15" r="6" fill="#ffbd2e"/><circle cx="58" cy="15" r="6" fill="#27c93f"/>
+<text x="446.0" y="20" fill="#9d9d9d" font-family="sans-serif" font-size="12" text-anchor="middle">sysmon</text>
+<g font-family="'DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="14">
+<text x="18" y="63"><tspan fill="#6a9955">$ </tspan><tspan fill="#ffffff">sysmon --ram</tspan></text>
+<text x="18" y="82" fill="#d4d4d4"><tspan fill="#d4d4d4">System Monitor v0.1   my-laptop   2026-11-19 07:30:18</tspan></text>
+<text x="18" y="101" fill="#d4d4d4"></text>
+<text x="18" y="120" fill="#569cd6" font-weight="bold">== MEMORY ==</text>
+<text x="18" y="139" fill="#d4d4d4"><tspan fill="#d4d4d4">RAM   </tspan><tspan fill="#4ec9b0">[##########----------]</tspan><tspan fill="#d4d4d4"> 7.5 GiB / 15.0 GiB  (available 7.6 GiB, buffers 116.7 MiB, cache 4.7 GiB)</tspan></text>
+<text x="18" y="158" fill="#d4d4d4"><tspan fill="#d4d4d4">Swap  </tspan><tspan fill="#4ec9b0">[##########----------]</tspan><tspan fill="#d4d4d4"> 2.1 GiB / 4.0 GiB</tspan></text>
+</g></svg>
